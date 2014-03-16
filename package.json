@@ -3,10 +3,10 @@
   "version": "2.6.1",
   "description": "The HTML Presentation Framework",
   "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "subdomain": "ksrevealjs",
   "scripts": {
     "test": "grunt test",
-    "start": ""
+    "start": "plugin/multiplex"
   },
   "author": {
     "name": "Hakim El Hattab",
